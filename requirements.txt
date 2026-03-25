@@ -1,0 +1,9 @@
+rdkit
+openai
+anthropic
+mistralai
+python-dotenv
+pydantic
+tqdm
+regex
+pytest
